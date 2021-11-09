@@ -11,7 +11,6 @@ class MenuController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         tableView.backgroundColor = .blue
     }
     
