@@ -20,7 +20,7 @@ class HomeController: UITableViewController {
         
         setupNavigationItems()
         
-        setupPanGesture()
+//        setupPanGesture()
         setupDarkCoverView()
     }
     
